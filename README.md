@@ -8,6 +8,13 @@ The original description of SMRT silencing was refered to as guide-induced gene 
 
 The relevant data files used for generating Figure 7 from the above manuscript can be found in data, and the code used for analysis and figure generation in notebook. 
 
+### Results
+
+The notebook contains code to process the intermediate mapping results contained in the data folder. If you clone the repository, you will need to modify the path to the data directory. If you want to process the data from the original sequencing files, they can be accessed from NCBI SRA, information provided below.
+
+
+### Data Availability
+
 The original sequencing data can be accessed from NCBI SRA as follows:
 
 | Sample   | Label       | Replicate | BioProject      |RNA-seq accession | small RNA-seq accession |
@@ -24,6 +31,4 @@ The original sequencing data can be accessed from NCBI SRA as follows:
 |antisense |eGFP.aseGFPv2_3  | one       | PRJNA1015757    | failed           | SRR26057902           |
 |antisense |eGFP.aseGFPv2_4  | two       | PRJNA1015758    | failed           | SRR26057900           |
 |antisense |eGFP.aseGFPv2_5  | three     | PRJNA1015759    | failed           | SRR26057904           |
-
-
 
