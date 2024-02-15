@@ -3,14 +3,20 @@ This repository contains information related to second generation sequencing ana
 
 The pre-print will be deposited on BioRxiv shortly. 
 
-The original description of SMRT silencing was refered to as guide-induced gene silencing. That publication is available here: [@10.1186/s13059-021-02586-7]
+The original description of SMRT silencing was refered to as guide-induced gene silencing. The article is open access and can be found here:
+Sharma V.K., Marla S., Zheng W., Mishra D., Huang J., Zhang W., Morris G.P., and D.E. Cook. CRISPR guides induce gene silencing in plants in the absence of Cas. *Genome Biol 23, 6 (2022)*. https://doi-org.er.lib.k-state.edu/10.1186/s13059-021-02586-7
 
 
-The relevant data files used for generating Figure 7 from the above manuscript can be found in data, and the code used for analysis and figure generation in notebook. 
 
 ### Results
 
+The relevant data files used for generating Figure 7 from the above manuscript can be found in data, and the code used for analysis and figure generation in notebook. 
+
 The notebook contains code to process the intermediate mapping results contained in the data folder. If you clone the repository, you will need to modify the path to the data directory. If you want to process the data from the original sequencing files, they can be accessed from NCBI SRA, information provided below.
+
+The data for RNA-seq analysis starts after DESeq2 analysis, using Transcript Per Million (TPM) counts and Differential Gene Expression (DGE) analysis. 
+
+The data for small (s)RNA-seq analysis starts after bedtools read depth summary of mapped reads (.bam). 
 
 
 ### Data Availability
