@@ -4,7 +4,8 @@ This repository contains information related to second generation sequencing ana
 The pre-print will be deposited on BioRxiv shortly. 
 
 The original description of SMRT silencing was refered to as guide-induced gene silencing. The article is open access and can be found here:
-Sharma V.K., Marla S., Zheng W., Mishra D., Huang J., Zhang W., Morris G.P., and D.E. Cook. CRISPR guides induce gene silencing in plants in the absence of Cas. *Genome Biol 23, 6 (2022)*. https://doi-org.er.lib.k-state.edu/10.1186/s13059-021-02586-7
+
+**Sharma V.K., Marla S., Zheng W., Mishra D., Huang J., Zhang W., Morris G.P., and D.E. Cook. CRISPR guides induce gene silencing in plants in the absence of Cas. *Genome Biol 23, 6 (2022)*.** https://doi.org/10.1186/s13059-021-02586-7
 
 
 
